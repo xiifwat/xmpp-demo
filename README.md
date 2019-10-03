@@ -1,2 +1,2 @@
 # xmpp-demo
-An Android application demonstration simple xmpp chat client
+A simple Android xmpp chat client
