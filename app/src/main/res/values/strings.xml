@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">XmppDemo</string>
+    <string name="lbl_username">Username</string>
+    <string name="lbl_pwd">Password</string>
+    <string name="lbl_forgot">Forgot?</string>
+    <string name="lbl_register">Register?</string>
+    <string name="btn_login">Sign In</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="check_rem">Remember?</string>
+</resources>
